@@ -1,0 +1,6 @@
+{
+  "name": "e-Yantra LNJPIT",
+  "description": "Official digital platform and community management portal for e-Yantra LNJPIT student robotics and technology community at LNJPIT Chapra, Bihar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
